@@ -1,6 +1,6 @@
 {
   "name": "hapi-bookshelf-total-count",
-  "version": "4.1.0",
+  "version": "5.0.0",
   "description": "Hapi plugin used with Bookshelf models to calculate the total number of records that match a query and appends it to the response",
   "main": "lib/index.js",
   "scripts": {
@@ -51,6 +51,6 @@
     "knex": "^0.10.0",
     "mocha": "^2.2.5",
     "redis": "^2.6.2",
-    "sqlite3": "^3.1.2"
+    "sqlite3": "^4.0.8"
   }
 }
